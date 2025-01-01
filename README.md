@@ -38,6 +38,8 @@ The models were evaluated using **NDCG@5** and **accuracy**, with the final mode
 - **NumPy**
 - **Matplotlib**
 - **Seaborn**
+<img width="217" alt="flask" src="https://github.com/user-attachments/assets/1f3d3b61-61aa-4776-89e2-c3dd1ffbdf74" />
+
 
 
 
