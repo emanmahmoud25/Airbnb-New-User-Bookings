@@ -40,6 +40,7 @@ The models were evaluated using **NDCG@5** and **accuracy**, with the final mode
 - **Seaborn**
   
 Developed a web interface using **Flask** to capture user inputs, process data, and integrate with a machine learning model for predicting destination countries in real-time.
+
 <img width="217" alt="flask" src="https://github.com/user-attachments/assets/1f3d3b61-61aa-4776-89e2-c3dd1ffbdf74" />
 
 
