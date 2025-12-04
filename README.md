@@ -1,6 +1,7 @@
 # Airbnb New User Bookings Prediction
 
 ![air22222222](https://github.com/user-attachments/assets/4cb3147f-955f-41b2-b327-bac6ff9f86f7)
+[Report discussing problem.pdf](https://github.com/user-attachments/files/23925889/Report.discussing.problem.pdf)
 This project predicts the first booking destination for new users on Airbnb based on their demographics, session behavior, and previous booking patterns. The goal is to recommend the most likely destination for new users, enhancing user experience and improving conversion rates.
 
 ## Project Overview
